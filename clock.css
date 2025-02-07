@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: rgb(5, 18, 31);
+    color: aqua;
+    
+}
+h1{
+    text-decoration: underline;
+   
+}
+.hours{
+    font-size: 150px;
+    
+}
+.clk{
+    color: white;
+}
+.secs{
+    font-size: 40px;
+    
+}
+.date{
+    font-size: 20px;
+    color:white;
+
+}
+.clock{
+    margin-top: 150px;
+    border: 2px solid rgb(218, 227, 227);
+    
+    box-sizing:border-box;
+    padding: 50px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+  
+
+}
