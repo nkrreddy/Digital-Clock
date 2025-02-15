@@ -47,7 +47,12 @@ h1{
     .clock{
        
         padding: 30px;
-        width: 300px;
+        width: 250px;
+        display: inline;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
      
     }
 }
